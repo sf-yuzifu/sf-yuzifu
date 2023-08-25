@@ -1,0 +1,11 @@
+# node
+/.npmrc
+/dist
+/node_modules
+package-lock.json
+
+# editor
+/.vscode
+/.idea
+
+.DS_Store
