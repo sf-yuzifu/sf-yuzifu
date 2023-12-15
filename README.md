@@ -8,7 +8,7 @@
   <a href="https://blog.yzf.moe/"><img src="https://img.shields.io/badge/Yuzifu's Blog-博客-yellow"  alt="博客"/></a>&emsp;
   <a href="https://space.bilibili.com/447666445/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"  alt="B站"/></a>&emsp;
   <a href="https://gitee.com/sf-yuzifu/"><img src="https://img.shields.io/badge/Gitee-码云-C71D23"  alt="码云"/></a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=sf-yuzifu&label= +访问次数+ &color=blue&style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=sf-yuzifu&color=blue&style=flat" alt="访问量统计" />
 </div>
 
 <br>
