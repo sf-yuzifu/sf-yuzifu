@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sf-yuzifu&show_icons=true&count_private=false&theme=vue-dark" />
+<img align="right" src="https://github-readme-stats-orcin-three-27.vercel.app/api?username=sf-yuzifu&show_icons=true&count_private=false&theme=vue-dark" />
 
 ### 你好啊 👋
 这里是小鱼，很高兴认识你～
